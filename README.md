@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @horaul14
 - 👀 I’m interested in software
-- 🌱 I’m currently learning HTML, CSS and Java
+- 🌱 I’m currently learning HTML, CSS, Java, React and Python.
 - 📫 How to reach me 
 
 <!---
